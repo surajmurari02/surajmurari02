@@ -3,6 +3,8 @@
 
 I specialize in leveraging cutting-edge AI and machine learning technologies to build innovative solutions across various domains. Currently, I work as an AI ML Engineer Intern at **Samajh.ai**, focusing on creating impactful, AI-driven applications that solve real-world challenges.
 
+![AI Banner](https://user-images.githubusercontent.com/1234567/ai-banner.gif)
+
 ---
 
 ### 🌟 Featured Projects
@@ -11,16 +13,20 @@ I specialize in leveraging cutting-edge AI and machine learning technologies to 
   - *Technologies: Python, TensorFlow, Keras, CNNs, XGBoost*
 
 - **[Epiderma Lens Link](link)** – A computer vision system designed for accurate detection of skin diseases. Leveraged CNNs along with advanced data augmentation and transfer learning to improve classification performance.
-  - *Technologies: Python, <!--TensorFlow,-->
- PyTorch*
-<!--
-- **[BiteEase](link)** – A dynamic canteen food ordering and management system. Built with a robust front-end for customer browsing and shop management, and an efficient back-end for order processing and revenue tracking.
-  - *Technologies: HTML, CSS, JavaScript, PHP, MySQL* -->
-
+  - *Technologies: Python, PyTorch*
 
 ---
 
 ### 🛠️ Skills & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=306998">
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396">
+  <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=flat&logo=tensorflow">
+  <img src="https://img.shields.io/badge/Framework-PyTorch-red?style=flat&logo=pytorch">
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker">
+  <img src="https://img.shields.io/badge/Tool-Git-green?style=flat&logo=git">
+</p>
+
 - **Languages**: Python, Java, HTML, JavaScript, PHP, MySQL
 - **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, AlexNet, YOLO
 - **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
@@ -49,6 +55,8 @@ I specialize in leveraging cutting-edge AI and machine learning technologies to 
 ---
 
 ### 🏅 Achievements & Leadership
+![Martial Arts](https://user-images.githubusercontent.com/1234567/karate-kickboxing.gif)
+
 - Senior Division NCC ‘B’ Certificate holder
 - Competed at Nationals in Karate & Kickboxing
 
