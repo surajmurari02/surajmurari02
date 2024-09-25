@@ -22,7 +22,7 @@ I specialize in leveraging cutting-edge AI and machine learning technologies to 
 
 ### 🛠️ Skills & Technologies
 - **Languages**: Python, Java, HTML, JavaScript, PHP, MySQL
-- **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, AlexNet, YOLO, custom-trained models
+- **AI/ML Frameworks**: TensorFlow, PyTorch, Keras, AlexNet, YOLO
 - **Web Development**: HTML, CSS, JavaScript, PHP, WordPress
 - **Tools & Technologies**: Git, VS Code, Photoshop, Illustrator, Docker, Ollama, Langchain
 
