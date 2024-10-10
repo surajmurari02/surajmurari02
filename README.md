@@ -69,5 +69,5 @@ I specialize in leveraging cutting-edge AI and machine learning technologies to 
 ---
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Suraj Murari](https://www.linkedin.com/in/suraj-murari/)
 - Email: surajmurari02@gmail.com
